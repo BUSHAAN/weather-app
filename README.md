@@ -13,3 +13,6 @@ This repository hosts a straightforward weather app that puts current weather in
 
 - **Frontend:** ReactJs
 - **Backend:** [OpenWeatherMap API](https://openweathermap.org/api)
+
+## Preview
+<img src="preview.jpg?raw=true" height="500">
