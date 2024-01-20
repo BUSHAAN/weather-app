@@ -5,6 +5,7 @@ import DrizzleIcon from "../Assets/drizzle.png";
 import HumidityIcon from "../Assets/humidity.png";
 import RainIcon from "../Assets/rain.png";
 import SearchIcon from "../Assets/search.png";
+import SnowIcon from "../Assets/snow.png";
 import WindIcon from "../Assets/wind.png";
 import "./WeatherApp.css";
 
@@ -59,6 +60,14 @@ const WeatherApp = () => {
         case "10n":
           setwIcon(RainIcon);
           break;
+        case "11d":
+        case "11n":
+          setwIcon(RainIcon);
+          break;
+        case "13d":
+        case "13n":
+          setwIcon(SnowIcon);
+          break;        
         default:
           setwIcon(ClearIcon);
           break;
