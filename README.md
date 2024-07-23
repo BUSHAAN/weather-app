@@ -9,6 +9,9 @@ This repository hosts a straightforward weather app that puts current weather in
 - Humidity level
 - Wind speed
 
+## Live Preview
+- Check out the live website: [https://bushaan.github.io/weather-app/](https://bushaan.github.io/weather-app/)
+
 ## Technologies Used
 
 - **Frontend:** ReactJs
